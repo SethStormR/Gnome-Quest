@@ -3,6 +3,8 @@ Gnome Quest is an icon theme for Gnome in 8 different colors. It's a fork/rework
 
 I have optimized the icon theme by removing unwanted icons and cut it down to the bone without sacrificing its usability.
 
+Tested on:  Solus OS, Zorin OS & Fedora
+
 <img width="1600" height="800" alt="Banner" src="https://github.com/user-attachments/assets/0825c82b-3439-4043-8ef1-c34fb00bfe60" />
 
 Screenshots
