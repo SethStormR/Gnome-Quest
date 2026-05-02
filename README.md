@@ -1,4 +1,6 @@
 # Gnome-Quest
+Moved to Codeberg: https://codeberg.org/StormRosenaa/Gnome-Quest
+
 Gnome Quest is an icon theme for Gnome in 8 different colors. It's a fork/rework of my previous icon theme QuestX.
 
 I have optimized the icon theme by removing unwanted icons and cut it down to the bone without sacrificing its usability.
